@@ -1,0 +1,28 @@
+.bod{
+    border-radius: 8px;
+    margin:3%  10%;
+    box-sizing: border-box;
+   
+}
+.formdiv{
+    padding: 30px;
+    background-color: #98acc7;
+    border-radius: 0 8px 8px 0;
+}
+#loginform{
+    background-color: white;
+    padding:20px 30px;
+    border-radius: 8px;
+}
+
+
+/* ////////////////////////////REGISTER FORM ////////////////////////// */
+
+
+.reg-page{
+    border-radius:10px;
+    margin: 5% 10%;
+    
+    
+    box-shadow: 0 0 20px whitesmoke;
+}
